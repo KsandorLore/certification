@@ -1,0 +1,15 @@
+D:\New\certification\certification\bin\Debug\net8.0\certification.exe
+D:\New\certification\certification\bin\Debug\net8.0\certification.deps.json
+D:\New\certification\certification\bin\Debug\net8.0\certification.runtimeconfig.json
+D:\New\certification\certification\bin\Debug\net8.0\certification.dll
+D:\New\certification\certification\bin\Debug\net8.0\certification.pdb
+D:\New\certification\certification\obj\Debug\net8.0\certification.GeneratedMSBuildEditorConfig.editorconfig
+D:\New\certification\certification\obj\Debug\net8.0\certification.AssemblyInfoInputs.cache
+D:\New\certification\certification\obj\Debug\net8.0\certification.AssemblyInfo.cs
+D:\New\certification\certification\obj\Debug\net8.0\certification.csproj.CoreCompileInputs.cache
+D:\New\certification\certification\obj\Debug\net8.0\certification.sourcelink.json
+D:\New\certification\certification\obj\Debug\net8.0\certification.dll
+D:\New\certification\certification\obj\Debug\net8.0\refint\certification.dll
+D:\New\certification\certification\obj\Debug\net8.0\certification.pdb
+D:\New\certification\certification\obj\Debug\net8.0\certification.genruntimeconfig.cache
+D:\New\certification\certification\obj\Debug\net8.0\ref\certification.dll
